@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am a blockchain developer</h2>
+<h2 align="center">Hi 👋! I am a Blockchain Engineer</h2>
 
 ###
 
